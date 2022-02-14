@@ -14,3 +14,4 @@ Similarly, when a user inputs "florida" as the state, all UFO sightings in Flori
 
 
 ## Summary
+One drawback of this dynamic table is that the displayed results are limited to the users knowledge of what is in the table. One possible solution to this, for example, might be a drop down menu with different categories per filter. This way, a UFO enthusiast who doesn't know all of the possible options to filter "shape" would make an informed decision. 
